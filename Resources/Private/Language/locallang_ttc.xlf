@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" datatype="plaintext" original="EXT:t3easy_ce_classes/Resources/Private/Language/locallang_ttc.xlf" date="2021-11-29T13:14:13Z" product-name="t3easy_ce_classes">
+		<header/>
+		<body>
+			<trans-unit id="t3easy_ce_classes" resname="t3easy_ce_classes">
+				<source>Appearance</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

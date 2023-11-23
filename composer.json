@@ -1,0 +1,25 @@
+{
+  "name": "t3easy/ce-classes",
+  "type": "typo3-cms-extension",
+  "description": "A custom field for content element classes",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Jan Kiesewetter",
+      "email": "jan@t3easy.de"
+    }
+  ],
+  "require": {
+    "php": "7.4 - 8.2",
+    "typo3/cms-core": "^10.4 || ^11.5 || ^12.4",
+    "typo3/cms-frontend": "^10.4 || ^11.5 || ^12.4"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0.x-dev"
+    },
+    "typo3/cms": {
+      "extension-key": "t3easy_ce_classes"
+    }
+  }
+}
