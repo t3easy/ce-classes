@@ -1,0 +1,10 @@
+lib.tx_t3easyceclasses.split_processor = TYPO3\CMS\Frontend\DataProcessing\SplitProcessor
+lib.tx_t3easyceclasses.split_processor {
+    if.isTrue.field = t3easy_ce_classes
+    delimiter = ,
+    fieldName = t3easy_ce_classes
+    removeEmptyEntries = 1
+    filterUnique = 1
+    filterIntegers = 0
+    as = classes
+}
